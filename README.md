@@ -17,3 +17,7 @@ React · Framer Motion · Create React App
 npm install
 npm start
 ```
+
+## License
+
+Built on the free [Treact](https://treact.owaiskhan.me) React UI kit by Owais Khan — see that project for its license terms. The school's name, logo, photographs and text belong to Sun Rise Model Public School and are not covered by the code license.
